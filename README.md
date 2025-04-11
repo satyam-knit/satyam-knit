@@ -46,6 +46,30 @@
 • Led team to achieve 99.99% system uptime  
 • Developed 30+ test cases stabilizing system operations  
 
+
+### Professional Journey
+
+**🏭 Bharat Dynamics Limited (BDL)**  
+<p>*System Engineer - SEG & Ind Department*  
+*Dec 2024 - Present*  
+- Engineered Excel-based dashboards reducing data processing time by 15hrs/week
+- Spearheaded team achieving 99.99% system uptime through optimized workflows
+- Developed 30+ test cases improving system stability by 3%
+- Implemented data analysis pipelines accelerating project timelines by 20%</p>
+
+**💻 Napses Technologies**  
+<p>*UI Developer Intern*  
+*Jun 2023 - Nov 2023*  
+- Built React components using atomic design principles (30% faster development)
+- Optimized frontend performance with Tailwind CSS (50% load time reduction)
+- Conducted user behavior analysis to drive UI improvements
+</p>
+**🛠️ XRaise AI**  
+<p>*Freelance QA Engineer*  
+- Executed manual/integration testing identifying 15+ critical defects
+- Streamlined bug tracking processes using Jira and Excel
+- Enhanced data security through comprehensive test coverage
+</p>
 ✅ **Certifications**  
 <img src="https://img.shields.io/badge/Cloud_Computing-IIT_Kharagpur(Top_10%)-blue">  
 <img src="https://img.shields.io/badge/Data_Structures-Scalers_Academy-orange">  
