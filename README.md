@@ -1,34 +1,75 @@
 [![MasterHead](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW01MG03ZmFyb3N6cDRmbzhsYW1uZmpidDU0MXRod28zMWpkN3dzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oxRm9NLuGHvWCZcdO/giphy.gif)]
 <h1 align="center">Hi 👋, I'm Satyam Sharma</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<h3 align="center">Data Analysis Specialist | Systems Engineer @ BDL</h3>
+<img align="right" alt="Data Visualization" width="400" src="https://cdn.dribbble.com/users/878331/screenshots/16153624/media/5232321eef1bfd3b3a3d7a8e4d8d6532.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=official-satyam&label=Profile%20views&color=0e75b6&style=flat" alt="official-satyam" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+- 🔭 **Current Role**: System Engineer at Bharat Dynamics Limited (SEG & Ind Dept)
+- 🌱 **Sharpening**: Advanced Excel Analytics & Power BI Optimization
+- 💬 **Expertise**: Python  | SQL Data Mining | Process Optimization | Manual Testing
+- 📫 **Reach Me**: officialsatyamsharma.knit@gmail.com
+- ⚡ **Fact**: Boosted project timelines by 20% through data workflow improvements
 
-- 🔭 I’m currently working on **connectBuddies**
+<h3 align="left">Technical Stack:</h3>
 
-- 🌱 I’m currently learning **reactjs nextjs**
-
-- 💬 Ask me about **HTML CSS JS**
-
-- 📫 How to reach me **officialsatyamsharma.knit@gmail.com**
-
-- ⚡ Fun fact **I am Btech CSE student**
-
-<h3 align="left">Connect with me:</h3>
+**Core Tools**  
 <p align="left">
-<a href="https://linkedin.com/in/satyam-sharma-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="satyam-sharma-dev" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/satyamdigital34" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="satyamdigital34" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/i_am_satyamsharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="i_am_satyamsharma" height="30" width="40" /></a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+**Supporting Tech**  
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white">
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=official-satyam&show_icons=true&locale=en&layout=compact" alt="official-satyam" /></p>
+<h3 align="left">Connect:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/satyam-sharma-dev" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://github.com/satyam-knit" target="blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=official-satyam&show_icons=true&locale=en" alt="official-satyam" /></p>
+<h3 align="left">Resume Highlights:</h3>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=official-satyam&" alt="official-satyam" /></p>
+✅ **BDL Achievements**  
+• Engineered Excel-based dashboards cutting data processing by 15hrs/week  
+• Led team to achieve 99.99% system uptime  
+• Developed 30+ test cases stabilizing system operations  
+
+✅ **Certifications**  
+<img src="https://img.shields.io/badge/Cloud_Computing-IIT_Kharagpur(Top_10%)-blue">  
+<img src="https://img.shields.io/badge/Data_Structures-Scalers_Academy-orange">  
+<img src="https://img.shields.io/badge/Power_BI-TechTip24-yellow">  
+
+<h3 align="left">GitHub Analytics:</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=official-satyam&show_icons=true&theme=merko">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=official-satyam&theme=merko">
+</p>
+
+```sql
+-- PizzaHut Sales Analysis Snippet
+SELECT 
+    pizza_name,
+    SUM(quantity) AS total_orders,
+    ROUND(SUM(total_price), 2) AS revenue
+FROM 
+    order_details
+WHERE 
+    order_date >= '2023-01-01'
+GROUP BY 
+    pizza_name
+ORDER BY 
+    revenue DESC
+LIMIT 5;
