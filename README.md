@@ -54,8 +54,8 @@
 <h3 align="left">GitHub Analytics:</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=official-satyam&show_icons=true&theme=merko">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=official-satyam&theme=merko">
+  <img src="https://github-readme-stats.vercel.app/api?username=satyam-knit&show_icons=true&theme=merko&hide_border=true" alt="stats" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satyam-knit&theme=merko&hide_border=true" alt="streak" width="48%">
 </p>
 
 ```sql
